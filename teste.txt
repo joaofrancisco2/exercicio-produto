@@ -1,6 +1,7 @@
 programa
 {
 
+    //teste
     funcao inteiro exibirMenu()
     {
         inteiro opcao
